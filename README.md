@@ -1,5 +1,5 @@
-# Data Analysis Projects - Class 18, 19, and 20 - May 2024 Cohort
-## Readme last updated - 9.25.24
+# Data Analysis Projects - Class 18, 19, and 20 content - Class numbers may differ per cohort.
+## Readme last updated - 12/3/25
 
 This repository holds exercise and studio code for classes 18, 19, and 20 of the [Data Analysis Textbook](https://education.launchcode.org/data-analysis-curriculum/)
 
